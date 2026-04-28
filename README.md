@@ -16,7 +16,7 @@ Ich entwickle gern saubere, praktische Webprojekte und erweitere aktuell meine K
 ### Ausgewählte Projekte
 
 - Recipe API – Fullstack-Rezept-App mit Authentifizierung, CRUD-Routen und Bild-Upload
-- Protocol Blackout – Teamprojekt mit getrenntem Frontend- und Backend-Repository
+- Protocol Blackout – Teamprojekt mit getrennten Frontend- und Backend-Repositories
 
 ---
 
