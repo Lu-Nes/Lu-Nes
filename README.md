@@ -14,4 +14,5 @@ I enjoy building clean, practical web projects and I am currently expanding my s
 ## Featured projects
 
 - Recipe API – REST API for a recipe app with authentication, CRUD routes and MongoDB
+- Protocol Blackout – Team project with separate frontend and backend repositories
 - More portfolio projects coming soon
