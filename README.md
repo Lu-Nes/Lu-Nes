@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm LuNes 👋
 
-<!--
-**Lu-Nes/Lu-Nes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Fullstack Web Developer with experience in React, Node.js and accessible web applications.
 
-Here are some ideas to get you started:
+I enjoy building clean, practical web projects and I am currently expanding my skills in backend development and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+- Fullstack web development with React and Node.js
+- REST APIs and database-backed applications
+- Accessibility and user-friendly interfaces
+- Learning Python step by step
+
+## Featured projects
+
+- Recipe API – REST API for a recipe app with authentication, CRUD routes and MongoDB
+- More portfolio projects coming soon
