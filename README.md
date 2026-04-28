@@ -1,4 +1,4 @@
-# Hi, I'm LuNes 👋
+# Hi, I'm LuNes
 
 I'm a Junior Fullstack Web Developer with experience in React, Node.js and accessible web applications.
 
