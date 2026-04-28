@@ -17,7 +17,6 @@ Ich entwickle gern saubere, praktische Webprojekte und erweitere aktuell meine K
 
 - Recipe API – Fullstack-Rezept-App mit Authentifizierung, CRUD-Routen und Bild-Upload
 - Protocol Blackout – Teamprojekt mit getrenntem Frontend- und Backend-Repository
-- Weitere Portfolio-Projekte folgen
 
 ---
 
@@ -38,4 +37,3 @@ I enjoy building clean, practical web projects and I am currently expanding my s
 
 - Recipe API – fullstack recipe app with authentication, CRUD routes and image upload
 - Protocol Blackout – team project with separate frontend and backend repositories
-- More portfolio projects coming soon
