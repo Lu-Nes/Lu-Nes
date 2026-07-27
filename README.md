@@ -2,7 +2,7 @@
 
 ## Deutsch
 
-Ich bin Junior Fullstack Web Developer mit Erfahrung in React, Node.js, REST APIs und barrierearmen Webanwendungen.
+Ich bin Junior Fullstack-Webentwicklerin mit Erfahrung in React, Node.js, REST APIs und barrierearmen Webanwendungen.
 
 Besonders gern arbeite ich an Backend-Logik, Authentifizierung, Datenmodellen und klar strukturierten API-Schnittstellen. Dabei lege ich Wert auf verständlichen, wartbaren Code und praktische Lösungen.
 
@@ -20,7 +20,7 @@ Besonders gern arbeite ich an Backend-Logik, Authentifizierung, Datenmodellen un
   Fullstack-Rezept-App mit React, Node.js, Express und MongoDB. Sie umfasst Cookie-basierte Authentifizierung, geschützte CRUD-Routen und Bildverwaltung. Das Backend ist bereits deployt; das Frontend wird derzeit technisch und gestalterisch zu einer portfoliofähigen Anwendung weiterentwickelt.
 
 - **[Protocol Blackout – Backend](https://github.com/ProtocolBlackout/backend)**  
-  Backend eines umfangreichen Fullstack-Teamprojekts mit Node.js, Express, MongoDB und Mongoose. Als Backend Lead und Projektmanagerin arbeitete ich unter anderem an Authentifizierung, User-, Profil- und Spiele-Endpunkten, XP- und Level-Logik sowie automatisierten Backendtests. Zusätzlich war ich an der Anbindung des bestehenden React-Frontends an die API und am Deployment beteiligt.
+  Backend eines umfangreichen Fullstack-Teamprojekts mit Node.js, Express, MongoDB und Mongoose. Als Backend Lead und Projektmanagerin arbeitete ich unter anderem an Authentifizierung, User-, Profil- und Spiele-Endpunkten, XP- und Level-Logik sowie automatisierten Backend-Tests. Zusätzlich band ich das bestehende React-Frontend an die API an, deployte das Backend und übernahm auch das Frontend-Deployment.
 
 - **[Accessibility Check Helper](https://github.com/Lu-Nes/accessibility-check-helper)**  
   React-Tool zur Prüfung grundlegender Accessibility-Regeln in eingefügtem HTML-Code.
@@ -39,6 +39,11 @@ Besonders gern arbeite ich an Backend-Logik, Authentifizierung, Datenmodellen un
 - Accessibility
 
 ---
+
+<details>
+<summary><strong>Read in English</strong></summary>
+
+<br>
 
 ## English
 
@@ -60,7 +65,7 @@ I particularly enjoy working on backend logic, authentication, data models and c
   Fullstack recipe application built with React, Node.js, Express and MongoDB. It includes cookie-based authentication, protected CRUD routes and image management. The backend is already deployed, while the frontend is currently being improved technically and visually into a portfolio-ready application.
 
 - **[Protocol Blackout – Backend](https://github.com/ProtocolBlackout/backend)**  
-  Backend of an extensive fullstack team project built with Node.js, Express, MongoDB and Mongoose. As Backend Lead and Project Manager, I worked on authentication, user, profile and game endpoints, XP and level logic, and automated backend tests. I was also involved in connecting the existing React frontend to the API and deploying the application.
+  Backend of an extensive fullstack team project built with Node.js, Express, MongoDB and Mongoose. As Backend Lead and Project Manager, I worked on authentication, user, profile and game endpoints, XP and level logic, and automated backend tests. I also connected the existing React frontend to the API, deployed the backend, and took over the frontend deployment.
 
 - **[Accessibility Check Helper](https://github.com/Lu-Nes/accessibility-check-helper)**  
   A React tool for checking basic accessibility rules in submitted HTML code.
@@ -77,3 +82,5 @@ I particularly enjoy working on backend logic, authentication, data models and c
 - Git and GitHub
 - Vitest and Supertest
 - Accessibility
+
+</details>
